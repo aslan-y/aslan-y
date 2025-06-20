@@ -1,39 +1,45 @@
-# Hi, ich bin Yasin Aslan
+# Hi, ich bin Yasin Aslan 👋
 
-## Softwareentwickler aus Wolfsburg
+![Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-Willkommen auf meinem GitHub-Profil! Ich bin leidenschaftlicher Entwickler mit Fokus auf Webtechnologien und Back-End-Programmierung. Meine Stärken liegen in der Erstellung moderner Websites und Anwendungen mit sauberem, wartbarem Code.
-
----
-
-### Über mich
-- 🔭 **Aktuelle Projekte:** Derzeit arbeite ich an innovativen Webanwendungen mit HTML, CSS, JavaScript, Python, PHP und BSSL.
-- 🌱 **Lernfokus:** Vertiefung meiner Kenntnisse in Webentwicklung und Datenbankdesign.
-- 🤝 **Community:** Aktive Teilnahme an Open-Source-Projekten und Austausch in Entwicklerforen.
-- 📫 **Kontakt:** Vernetz dich mit mir auf [LinkedIn](#www.linkedin.com/in/
-aslan-y).
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aslan-y)
 
 ---
 
-### Tech Stack
+## Über mich
 
-| **Frontend**   | **Backend**             | **Datenbanken**    |
-| -------------- | ----------------------- | ------------------ |
-| HTML, CSS, JS  | Python, PHP, BSSL       | BSSL, MySQL        |
+Ich bin ein engagierter Softwareentwickler aus Wolfsburg mit einem klaren Fokus auf Web-Technologien und robuste Backend-Lösungen. Mit **HTML, CSS, JavaScript, Python, PHP und BSSL** kreiere ich elegante und wartbare Anwendungen, die durch sauberen Code und nachhaltige Konzepte überzeugen.
 
 ---
 
-### Projekte & Beiträge
+## Technologie-Stack
+
+| **Bereich**     | **Technologien**       |
+| --------------- | ---------------------- |
+| **Frontend**    | HTML, CSS, JavaScript  |
+| **Backend**     | Python, PHP, BSSL      |
+| **Datenbanken** | BSSL, MySQL            |
+
+---
+
+## Projekte & Beiträge
+
 Einige Highlights meiner Arbeiten:
-- **Projekt 1:** [Projektname](Link) – Eine kurze Beschreibung der verwendeten Technologien und Funktionen.
-- **Projekt 2:** [Projektname](Link) – Beschreibung der Besonderheiten und eingesetzten Tools.
-- **Open Source:** Entdecke meine [Beiträge in der Community](https://github.com/YOURUSERNAME?tab=repositories).
+
+- **Projekt 1:** [Projektname](#)  
+  *Eine kurze Beschreibung der Funktionen, Technologien und Besonderheiten.*
+- **Projekt 2:** [Projektname](#)  
+  *Erläuterung des Projektziels und des Entwicklungsprozesses.*
+
+Erfahre mehr über meine Open-Source-Beiträge und mein Engagement in der Entwickler-Community.
 
 ---
 
-### Meine Motivation
-Technologie verändert die Welt – und ich möchte mit gutem Design, nachhaltiger Entwicklung und innovativen Lösungen meinen Teil dazu beitragen. Ich freue mich über inspirierende Projekte, den kreativen Austausch und neue Herausforderungen.
+## Meine Motivation
+
+Ich bin überzeugt, dass Technologie die Welt verändern kann – wenn man sie mit Leidenschaft und Innovationsgeist einsetzt. Der konstruktive Austausch und das kontinuierliche Lernen sind für mich der Antrieb, immer bessere Lösungen zu entwickeln. Dabei gilt: Jeder Code, den ich schreibe, erzählt eine Geschichte.
 
 ---
 
-*Danke, dass du vorbeischaust. Gemeinsam gestalten wir die Zukunft!*
+**Danke, dass du vorbeischaust!**  
+Lass uns gemeinsam die Zukunft programmieren!
