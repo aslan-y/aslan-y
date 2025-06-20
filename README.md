@@ -1,7 +1,5 @@
 # Hi, ich bin Yasin Aslan 👋
 
-![Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aslan-y)
 
 ---
@@ -17,8 +15,8 @@ Ich bin ein engagierter Softwareentwickler aus Wolfsburg mit einem klaren Fokus 
 | **Bereich**     | **Technologien**       |
 | --------------- | ---------------------- |
 | **Frontend**    | HTML, CSS, JavaScript  |
-| **Backend**     | Python, PHP, BSSL      |
-| **Datenbanken** | BSSL, MySQL            |
+| **Backend**     | Python, PHP,           |
+| **Datenbanken** | MySQL                  |
 
 ---
 
