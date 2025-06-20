@@ -6,7 +6,7 @@
 
 ## Über mich
 
-Ich bin ein engagierter Softwareentwickler aus Wolfsburg mit einem klaren Fokus auf Web-Technologien und robuste Backend-Lösungen. Mit **HTML, CSS, JavaScript, Python, PHP und BSSL** kreiere ich elegante und wartbare Anwendungen, die durch sauberen Code und nachhaltige Konzepte überzeugen.
+Ich bin ein engagierter Softwareentwickler aus Wolfsburg mit einem klaren Fokus auf Web-Technologien und robuste Backend-Lösungen. Mit **HTML, CSS, JavaScript, Python, PHP** kreiere ich elegante und wartbare Anwendungen, die durch sauberen Code und nachhaltige Konzepte überzeugen.
 
 ---
 
