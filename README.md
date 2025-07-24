@@ -20,18 +20,6 @@ Ich bin ein engagierter Softwareentwickler aus Wolfsburg mit einem klaren Fokus 
 
 ---
 
-## Projekte & Beiträge
-
-Einige Highlights meiner Arbeiten:
-
-- **Projekt 1:** [Projektname](#)  
-  *Eine kurze Beschreibung der Funktionen, Technologien und Besonderheiten.*
-- **Projekt 2:** [Projektname](#)  
-  *Erläuterung des Projektziels und des Entwicklungsprozesses.*
-
-Erfahre mehr über meine Open-Source-Beiträge und mein Engagement in der Entwickler-Community.
-
----
 
 ## Meine Motivation
 
